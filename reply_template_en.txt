@@ -1,0 +1,11 @@
+🌾 CropOracle Egypt wheat recommendation
+
+Location: {governorate}
+Best sowing date: {best_sowing_date}
+Simulated yield: {best_yield_t_ha} t/ha
+Lowest option tested: {worst_sowing_date} = {worst_yield_t_ha} t/ha
+
+Expected advantage: about {extra_kg_ha} kg/ha.
+For {farm_area_ha} ha, this is about {extra_total_kg} kg extra grain.
+
+Note: this is a prototype simulation result. Final deployment needs local APSIM calibration and validation.

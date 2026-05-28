@@ -1,0 +1,8 @@
+{
+  "default": {
+    "crop": "wheat",
+    "cultivar": "Egyptian_wheat_placeholder",
+    "candidate_cultivars": ["Misr 1", "Misr 2", "Giza 171", "Sakha 95", "Gemmeiza 12"],
+    "notes": "Use calibrated APSIM cultivar parameters from Egyptian field trials before production deployment."
+  }
+}

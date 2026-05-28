@@ -1,0 +1,13 @@
+{
+  "Name": "Egypt_Wheat_Template_Placeholder",
+  "Description": "Replace this placeholder with a real calibrated APSIM Next Gen wheat .apsimx template. Keep management nodes named consistently so Python can update sowing, nitrogen, irrigation and weather.",
+  "RequiredNodes": [
+    "Weather",
+    "Soil",
+    "Wheat",
+    "Manager_Sowing",
+    "Manager_Nitrogen",
+    "Manager_Irrigation",
+    "Report"
+  ]
+}
