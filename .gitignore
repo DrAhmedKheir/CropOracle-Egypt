@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APSIM outputs and temporary files
+outputs/*
+!outputs/.gitkeep
+*.db
+*.sqlite
+*.met.tmp
+*.apsimx.tmp
+runs/
+workdir/
+
+# Logs
+*.log
+logs/
+
+# Secrets
+secrets/
+*.pem
+*.key
+
+# Large data files
+weather_data/raw/
+soil_data/raw/
+*.nc
+*.tif
+*.grib
